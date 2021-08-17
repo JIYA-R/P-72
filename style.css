@@ -1,0 +1,9 @@
+body{
+text-align: center;
+background-color: lightpink;
+}
+
+#Garden{
+display: inline-block;
+width: 100%;
+}
